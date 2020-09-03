@@ -1,0 +1,23 @@
+body{
+    background-image: url(for%20background.jpg); 
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+/*.box{*/
+/*   background:linear-gradient(to right,#e60000,#ffb3b3);*/
+/*    box-shadow: 3px 5px 3px black;*/
+    
+}
+h1{
+    color:#ffffff;
+    text-shadow: 2px 2px 5px black;
+}
+h2{
+    color:rgb(0,204,255);
+    text-shadow: 1px 1px 3px darkblue
+}
+
+.borderImg{
+    border: 10px dashed red;
+}
